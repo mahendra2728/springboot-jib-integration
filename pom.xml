@@ -61,7 +61,7 @@
 				<version>2.6.0</version>
 				<configuration>
 					<to>
-						<image>registry.hub.docker.com/mahi2728/users-demo</image>
+						<image>registry.hub.docker.com/DOCKER_IMAGE_PATH</image>
 					</to>
 				</configuration>
 			</plugin>
